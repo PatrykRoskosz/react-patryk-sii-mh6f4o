@@ -1,0 +1,40 @@
+.link {
+  margin-left: 10px;
+}
+.oferta {
+  color: red;
+  font-size: 2rem;
+  border: 1px solid red;
+  padding: 2px;
+  border-radius: 5px;
+  font-weight: 600;
+}
+.autocomplete,
+.component-filter {
+  width: 100vw;
+}
+.autocomplete button {
+  width: 20vw;
+  background-color: green;
+}
+.component-filter {
+  background-color: blue;
+  color: rgba(255, 255, 255, 1);
+}
+.card {
+  border: none;
+}
+.oferta {
+  text-align: center;
+  padding: 10px;
+  border: none;
+}
+.menu-oferta {
+  font-size: 12px;
+  margin-left: 10px;
+}
+
+.licznik h2 {
+  color: red;
+  font-size: 20px;
+}
